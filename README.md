@@ -20,9 +20,5 @@ contains data spanning from 2010 to 2021 and covers several different topics, su
 
 <img src="img/fullfact_example.png" width="70%">
 
-
-## References
-- Tariq Alhindi, Savvas Petridis, and Smaranda Muresan. 2018. Where is Your Evidence: Improving Fact-checking by Justification Modeling. In Proceedings of the First Workshop on Fact Extraction and VERification (FEVER), pages 85–90, Brussels, Belgium. Association for Computational Linguistics.
-
 ---
 For any questions or inquiries, please contact drusso@fbk.eu
