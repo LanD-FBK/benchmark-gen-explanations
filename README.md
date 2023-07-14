@@ -4,7 +4,6 @@ This repository contains the code necessary to recreate the datasets employed in
 
 - [LIAR++](#liar_plus_plus)
 - [FullFact](#fullfact)
-- [References](#references)
 
 ---
 
