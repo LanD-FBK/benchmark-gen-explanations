@@ -1,6 +1,6 @@
 # Benchmarking the Generation of Fact Checking Explanations
 
-This repository contains the code necessary to recreate the datasets employed in [**Benchmarking the Generation of Fact Checking Explanations**](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00601/117871/Benchmarking-the-Generation-of-Fact-Checking), namely **LIAR++** and **FullFact** datasets. If you use these datasets or any partial sections of them in your work, we kindly request that you cite our original paper.
+This repository contains the code necessary to recreate the datasets employed in [**Benchmarking the Generation of Fact Checking Explanations**](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00601/117871/Benchmarking-the-Generation-of-Fact-Checking), namely **LIAR++** and **FullFact** datasets. If you use these datasets or any partial sections of them in your work, we kindly request to [cite](https://github.com/LanD-FBK/benchmark-gen-explanations/blob/main/README.md#bibtex-citation) our original paper.
 
 - [LIAR++](#liar_plus_plus)
 - [FullFact](#fullfact)
