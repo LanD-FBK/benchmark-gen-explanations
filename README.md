@@ -1,6 +1,6 @@
 # Benchmarking the Generation of Fact Checking Explanations
 
-This repository contains the code necessary to recreate the datasets employed in [**Benchmarking the Generation of Fact Checking Explanations**](https://arxiv.org/abs/2308.15202v1), namely **LIAR++** and **FullFact** datasets. If you use these datasets or any partial sections of them in your work, we kindly request that you cite our original paper.
+This repository contains the code necessary to recreate the datasets employed in [**Benchmarking the Generation of Fact Checking Explanations**](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00601/117871/Benchmarking-the-Generation-of-Fact-Checking), namely **LIAR++** and **FullFact** datasets. If you use these datasets or any partial sections of them in your work, we kindly request that you cite our original paper.
 
 - [LIAR++](#liar_plus_plus)
 - [FullFact](#fullfact)
@@ -20,4 +20,27 @@ contains data spanning from 2010 to 2021 and covers several different topics, su
 <img src="img/fullfact_example.png" width="70%">
 
 ---
-For any questions or inquiries, please contact drusso@fbk.eu
+## BibTex Citation
+
+```
+@article{10.1162/tacl_a_00601,
+    author = {Russo, Daniel and Tekiroğlu, Serra Sinem and Guerini, Marco},
+    title = "{Benchmarking the Generation of Fact Checking Explanations}",
+    journal = {Transactions of the Association for Computational Linguistics},
+    volume = {11},
+    pages = {1250-1264},
+    year = {2023},
+    month = {10},
+    issn = {2307-387X},
+    doi = {10.1162/tacl_a_00601},
+    url = {https://doi.org/10.1162/tacl\_a\_00601},
+    eprint = {https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl\_a\_00601/2163489/tacl\_a\_00601.pdf},
+}
+```
+## Citation
+```
+Daniel Russo, Serra Sinem Tekiroğlu, Marco Guerini; Benchmarking the Generation of Fact Checking Explanations. Transactions of the Association for Computational Linguistics 2023; 11 1250–1264. doi: https://doi.org/10.1162/tacl_a_00601
+```
+---
+
+**For any questions or inquiries, please contact drusso@fbk.eu**
