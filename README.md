@@ -22,7 +22,7 @@ contains data spanning from 2010 to 2021 and covers several different topics, su
 ---
 ## BibTex Citation
 
-```
+```bibtex
 @article{10.1162/tacl_a_00601,
     author = {Russo, Daniel and Tekiroğlu, Serra Sinem and Guerini, Marco},
     title = "{Benchmarking the Generation of Fact Checking Explanations}",
